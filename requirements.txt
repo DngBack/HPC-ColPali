@@ -8,3 +8,5 @@ langchain>=0.0.300
 langchain-community>=0.2.0
 bitarray>=2.7.0
 scikit-learn>=1.2.0
+beir>=1.0.0
+vidore-benchmark
