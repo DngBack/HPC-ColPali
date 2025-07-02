@@ -4,6 +4,8 @@
 
 Hierarchical Patch Compression for ColPali: Indexing and Retrieval with HPC-Colpali(Base on ColQwwen2.5)
 
+Paper: [Paper](https://arxiv.org/abs/2506.21601)
+
 ## Code Structure
 
 ```bash
