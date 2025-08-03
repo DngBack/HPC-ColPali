@@ -132,12 +132,14 @@ If you use this code in your research, please cite our paper:
 **arXiv Version:**
 
 ```bibtex
-@article{hpc-colpali-2024,
-  title={Hierarchical Patch Compression for ColPali: Indexing and Retrieval with HPC-ColPali},
-  author={[Duong Bach]},
-  journal={arXiv preprint arXiv:2506.21601},
-  year={2024},
-  url={https://arxiv.org/abs/2506.21601}
+@misc{bach2025hierarchicalpatchcompressioncolpali,
+      title={Hierarchical Patch Compression for ColPali: Efficient Multi-Vector Document Retrieval with Dynamic Pruning and Quantization},
+      author={Duong Bach},
+      year={2025},
+      eprint={2506.21601},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2506.21601},
 }
 ```
 
